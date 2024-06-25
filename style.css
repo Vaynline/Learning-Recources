@@ -1,0 +1,75 @@
+#title{
+    text-shadow: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+#button{
+    width: 90px;
+    height: 45px;
+    color: whitesmoke;
+    border-radius: 45%;
+    background-color: rgb(66, 148, 27);
+    box-shadow: inset;
+}
+
+#button1{
+    width: 90px;
+    height: 45px;
+    color: whitesmoke;
+    border-radius: 45%;
+    background-color: rgb(0, 17, 255);
+    box-shadow: inset;
+}
+
+#button2{
+    width: 115px;
+    height: 45px;
+    color: whitesmoke;
+    border-radius: 45%;
+    background-color: rgb(14, 20, 109);
+    box-shadow: inset;
+}
+#button3{
+    width: 115px;
+    height: 45px;
+    color: whitesmoke;
+    border-radius: 45%;
+    background-color: rgb(78, 196, 23);
+    box-shadow: inset;
+}
+
+#button4{
+    width: 115px;
+    height: 45px;
+    color: whitesmoke;
+    border-radius: 45%;
+    background-color: rgb(44, 44, 44);
+    box-shadow: inset;
+}
+
+#body{
+    background-color: rgb(161, 0, 0);
+}
+
+#body2{
+    background-color: rgb(53, 53, 53);
+}
+
+#HTML{
+    color: orangered;
+}
+
+#CSS{
+    color: rgb(0, 128, 207);
+}
+
+#JS{
+    color: yellow;
+}
+
+#python{
+    background: linear-gradient(to left, #0059ff,#ffe926, #0059ff,#ffe926);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-size: 80px;
+}
